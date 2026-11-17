@@ -1,0 +1,6 @@
+{
+  "name": "CreditRisk Mentor",
+  "description": "Personalized credit risk study plan, analytical frameworks, R vs. Python guide, and interactive interview workbench tailored for early-career finance professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
